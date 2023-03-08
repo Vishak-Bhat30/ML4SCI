@@ -11,7 +11,7 @@ Task: To classify input as Electron/Photons.
  		                   https://cernbox.cern.ch/index.php/s/FbXw3V4XNyYB3o(electrons)
                              
 The dataset mainly contained files that were of .hdf5 format. 
-The data contained the pixel values of the images in the shape of 32,32,2 were the 2 represented the number of channels.
+The data contained the matrix in the shape of 32,32,2 were the 2 represented the number of channels.
 The channels represented hit energy and time.
              
 

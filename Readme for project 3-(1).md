@@ -131,7 +131,7 @@ $ finaldim = ((initialdim+2*padding-filtersize)/stride)+1$  -----A
     
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
      Results:
-       After tuning the hyperparameters as mentioned above i managed to get the ROC AUC score of 75.6.
+       After tuning the hyperparameters as mentioned above i managed to get the ROC AUC score of 75.6. Actually the accuracy could be more better but then I have trained the model on less data due to computational limitaion. Therefore the ROC AUC value is a bit less than that of the CNN model.
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------

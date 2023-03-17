@@ -11,6 +11,13 @@ That is the time complexity of the model is quadratic and while I trained the mo
 It took lots of time even after using a GPU. By using filters with stride I am expecting better results because in that 
 case the number of filters is reduced and the time is saved.
 
+Also I will implement other transformer based models like 
+* DeiT (Dense Encoder Innovations for Vision Transformers)
+* TNT (Token-Transformers for Image Recognition at Scale)
+* CaiT (Cross-Attention Image Transformer)
+* SETR (Semi-supervised Transformers for Image Recognition)
+* PVT (Pyramid Vision Transformer)
+
  Time plays a crucial role so that we can experiment with the model and tune the hyperparameters. 
  In the case of CNN network I could manage to train the model in ⅕ th time of that taken by the ViT the reason being the above.
 

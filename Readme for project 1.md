@@ -41,5 +41,7 @@ The channels represented hit energy and time.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
      Results:
        After tuning the hyperparameters as mentioned above i managed to get the ROC AUC score of 80.2.
-       ![roc curve task 1](https://user-images.githubusercontent.com/102585626/227754928-a7440979-86dc-4d9a-92b3-ded448c57f7e.png)
+       
+ ![roc curve task 1](https://user-images.githubusercontent.com/102585626/227755120-4c707e71-ee6d-4521-991c-f3dce2f6f451.png)
+
 

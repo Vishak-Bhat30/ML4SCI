@@ -17,3 +17,7 @@
 * Future plans.md: Contains the details of my future plans 
 
 * E2E paper 1/2 : contains the reseach papers that I refered to get the domain knowledge..!
+
+* Ml4sci-task-3-(2).ipynb: This contains the jupyter notebook of the task3 regression model E2E project.
+
+* 

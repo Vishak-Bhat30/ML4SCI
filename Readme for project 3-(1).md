@@ -36,7 +36,7 @@ The channels represented hit energy and time.
 
 * Since the stride and the filter size of the conv3d was kept to be the same as the patch size, the formula 
 
-	 finaldim = ((initialdim+2*padding-filtersize)/stride)+1$  -----A
+	 $finaldim$ = $((initialdim+2*padding-filtersize)/stride)+1$  -----A
 
 * when this formula is applied, the initaildim is taken such that patch size fits it. Therefore it will be some thing like $sqrt(numberOfPatches)* patchDim = imageDim$
 
